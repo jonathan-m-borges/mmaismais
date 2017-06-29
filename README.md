@@ -2,12 +2,12 @@
 
 A microcontroller implementation on Logisim, useful for didactic purposes.
 
-![Print](https://cloud.githubusercontent.com/assets/13054871/26154729/089bc78e-3ae7-11e7-92ec-bc1c25bc1341.png)
+![Print](https://raw.githubusercontent.com/inventti-jonathan/mmaismais/master/docs/m%2B%2B.png)
 
 ### What is it?
 Maquina++ (<i>Machine++</i>) is a FURB University's project released in 2003. It was initially created by Jonathan Manoel Borges, who created the entire microcontroller and his assembler, with orientation of professor Miguel Alexandre Wisintainer. This was the first version of the project that is used untill now as an academic tool.
-In 2014 it was rewritten and improved on the Logisim digital simulator.
-In 2017 it was rewritten again on the Logisim digital simulator, with didactics improved.
+In 2014 it was rewritten and improved by Jean Jung, on the Logisim digital simulator.
+In 2017 it was rewritten on the Logisim digital simulator again, with didactics improvements.
 
 ### Caracteristics
 * 8-bit RAM bus
