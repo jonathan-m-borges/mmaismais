@@ -9,6 +9,24 @@ Maquina++ (<i>Machine++</i>) is a FURB University's project released in 2003. It
 In 2014 it was rewritten and improved by Jean Jung, on the Logisim digital simulator.
 In 2017 it was rewritten on the Logisim digital simulator again, with didactics improvements.
 
+### How can I try it?
+#### Instructions
+- Download the [Logisim](http://www.cburch.com/logisim/pt/download.html) - * simulating logic circuits tool *
+- Download the [file release](https://github.com/inventti-jonathan/mmaismais/releases/download/3.0.0/Mmaismais-2017-3.0.0.zip)
+- Extract the file
+- Open the file Mmaismais3.0.0-Exemplo01.circ on the Logisim
+- To run the example, you should enable the clock. To do that, click on Simulate menu, then check Ticks Enabled, or press CTRL+K. You can set the Tick Frequency to run faster.
+
+![Print](https://raw.githubusercontent.com/inventti-jonathan/mmaismais/master/docs/m%2B%2B.png)
+
+#### To edit the program
+- There is a simple program as example to demonstrate the M++ microcontroller.
+- To edit the program or create new programs, you need run the software AssemblerM++.jar.
+- After you code your program, you should generate a **.mmmp** file, clicking in menu: **Compilação --> Exportar **.
+- Then, you need open the project Example in Logosim, and load a **.mmmp** file on memory called "Memória de Programa".
+
+![Print](https://raw.githubusercontent.com/inventti-jonathan/mmaismais/master/docs/m%2B%2B.png)
+
 ### Caracteristics
 * 8-bit RAM bus
 * 8-bit Data bus
